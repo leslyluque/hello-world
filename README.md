@@ -1,2 +1,4 @@
 # hello-world
-hello world test
+
+I just want to be a good developer
+Why is this so hard
